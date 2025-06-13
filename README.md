@@ -1,4 +1,4 @@
-# Tutorial JMeter untuk Pemula - Performance & API Testing
+# JMeter - Performance & API Testing
 
 ## 📋 Daftar Isi
 1. [Pengenalan JMeter](#pengenalan-jmeter)
