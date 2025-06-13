@@ -1,15 +1,5 @@
 # JMeter - Performance & API Testing
 
-## 📋 Daftar Isi
-1. [Pengenalan JMeter](#pengenalan-jmeter)
-2. [Persiapan dan Instalasi](#persiapan-dan-instalasi)
-3. [Mengenal Interface JMeter](#mengenal-interface-jmeter)
-4. [Performance Testing](#performance-testing)
-5. [API Testing](#api-testing)
-6. [Tips dan Troubleshooting](#tips-dan-troubleshooting)
-
----
-
 ## 🚀 Pengenalan JMeter
 
 ### Apa itu JMeter?
